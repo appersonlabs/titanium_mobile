@@ -11,8 +11,7 @@ will eventually be supported such as Windows 8.
 Titanium is licensed under the OSI approved Apache Public License (version 2). Please
 see the LICENSE file for specific details.
 
-*[Download Pre-built Titanium](http://www.appcelerator.com/download)*
-
+[![Build Status](https://travis-ci.org/appersonlabs/titanium_mobile.svg)](https://travis-ci.org/appersonlabs/titanium_mobile)
 
 Features
 --------------------
